@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_laudos_veiculares_dekra_ecv.",
+  "servers": {
+    "laudos_veiculares_dekra_ecv": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_laudos_veiculares_dekra_ecv"
+    }
+  }
+}

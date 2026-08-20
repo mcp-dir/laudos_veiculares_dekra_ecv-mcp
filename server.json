@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/laudos_veiculares_dekra_ecv-mcp",
+  "title": "Laudos Veiculares DEKRA: ECV (Empresa Credenciada de Vistoria)",
+  "description": "Laudos Veiculares DEKRA: ECV (Empresa Credenciada de Vistoria), official-source lookup. Platform-hos",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/laudos_veiculares_dekra_ecv-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_laudos_veiculares_dekra_ecv"
+    }
+  ]
+}
